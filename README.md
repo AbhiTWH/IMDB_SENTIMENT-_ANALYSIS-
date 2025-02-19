@@ -1,0 +1,1 @@
+IMDB sentiment analysis involves using computational techniques to determine the emotional tone expressed in movie reviews from the Internet Movie Database (IMDB).  Essentially, it's about figuring out whether a reviewer liked or disliked a movie based on their written review.
